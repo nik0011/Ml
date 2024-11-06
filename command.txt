@@ -1,0 +1,7 @@
+'g++ File_Name.cpp -o FileName'
+///////////////
+g++ cplus.cpp
+./a.out
+///////////////////////////
+g++ main.cpp -o main
+g++ ~/Desktop/main.cpp -o ~/Projects/main
